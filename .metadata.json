@@ -1,5 +1,9 @@
 [
   {
+    "package": "irtpwr",
+    "oncran": true
+  },
+  {
     "package": "mlpwr",
     "oncran": true
   }
